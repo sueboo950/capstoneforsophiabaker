@@ -1,4 +1,4 @@
-# Cap Stone For Sophia Baker
+# Capstone For Sophia Baker
 ///describe project
 # About
 ///write about
