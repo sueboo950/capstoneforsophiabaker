@@ -1,6 +1,8 @@
 function createMessage(){
     let message ={}
     message.sender = prompt("What is your name?");
+    message.phone = prompt("What is your phone number?");
+    message.email = prompt("What is your email address?");
     message.request = prompt("What is your prayer request");
 
     prayerrequestParagraph.innerHTML = `Dear ${message.sender}, Thank you for your request! Here is your prayer below..`;
