@@ -15,6 +15,7 @@ if (importantText = true) {
     const importantText = ["help", "suicide", "hurting self", "depressed", "stressed", "lonely", "commit suicide", "saying goodbye", "selling", "will", "giving",]
     
     window.open('mailto:test@example.com?subject=Important Reach Out');
+    window.open('mailto:sophie950950@yahoo.com?subject=Important Reach Out');
 
 }
 
