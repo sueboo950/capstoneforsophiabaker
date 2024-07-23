@@ -9,6 +9,13 @@ function createMessage(){
 }
 prayerrequestButton.onclick = createMessage
 
+if (importantText = true) {
+    const importantText = ["suicide", "hurting self", "depressed", "stressed", "lonely", "commit suicide", "saying goodbye", "selling", "will", "giving",]
+    
+    window.open('mailto:test@example.com?subject=Your%20Subject&body=Your%20Message');
+
+}
+
 const bibleVerses = [
     "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus. Philippians 4:6-7",
     "Rejoice in hope, be patient in tribulation, be constant in prayer. Romans 12:12",
