@@ -12,7 +12,7 @@ function createMessage(){
 prayerrequestButton.onclick = createMessage
 
 if (importantText = true) {
-    const importantText = ["suicide", "hurting self", "depressed", "stressed", "lonely", "commit suicide", "saying goodbye", "selling", "will", "giving",]
+    const importantText = ["help", "suicide", "hurting self", "depressed", "stressed", "lonely", "commit suicide", "saying goodbye", "selling", "will", "giving",]
     
     window.open('mailto:test@example.com?subject=Important Reach Out');
 
